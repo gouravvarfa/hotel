@@ -1,0 +1,482 @@
+*{
+    margin:0%;
+    padding: 0%;
+    color:black;
+    
+}
+.img {
+    background-image: url('isha16.jpg');
+   
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.5);
+   
+    background-size: cover;
+    
+
+}
+.navbar{
+   border-bottom: 3px solid white;
+    width: 100%;
+    height: 116px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.text1{
+    font-size: 40px;
+    font-weight: bold;
+
+
+}
+.navbar p{
+    font-size: 50px;
+
+}
+.navbar2{
+    display: flex;
+ 
+    margin-top: 20px;
+    font-size: 20px;
+    font-size: 30px;
+}
+.fort{
+    margin-left: 129px;
+  
+}
+.luxury{
+    margin-left: 450px ;
+
+}
+
+.navbar3{
+   
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+
+}
+.wardel{
+
+    height:650px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+
+
+}
+.wardel h1{
+    color: rgb(124, 110, 110);
+}
+.stay {
+    /* margin-top: 497px; */
+    font-weight: bold;
+    margin-left: 30px;
+    color: #ffffff;
+}
+.box1{
+   
+    color: black;
+    height: 300px;
+    width: 100%;
+    display: flex;
+background-image: url('isha14.jpg');   
+    align-items: center;
+    background-size: cover;
+    margin-top: 40px;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.5);
+
+
+
+
+}
+.parah1{
+    color: black;
+    
+    height: 300px;
+    width: 300px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.parah1 h1{
+    color: black;
+    font-size: 40px;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+}
+.box2{
+   
+    color: black;
+    height: 300px;
+    width: 100%;
+    display: flex;
+   justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(12, 13, 19),linear-gradient(to bottom, #ffffff 1%, #ccc3b0 97%);
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.5);
+
+}
+
+
+
+
+
+
+.parabox{
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+}
+.para1{
+
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.para2{
+
+    height: 250px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.para1 p{
+    color: black;
+
+}
+
+.para2 p{
+    color: black;
+    
+}
+.box3{
+  
+    color: black;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    background-image: url('isha2.png');
+    box-shadow: 0.1px 0.3px 10px 0px black;
+
+
+}
+.rooms{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-size: large;
+    font-size: 30ox;
+    height: 20px;
+    width: 100;
+}
+.photosbox{
+  
+    height:450px ;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+}
+.mainbox{
+    width: 100%;
+    height: 500px;
+}
+.bx1 {
+    height: 300px;
+    width:300px;
+   
+    box-shadow: 0.1px 0.3px 20px 5px black;
+
+
+
+}
+.bs1{
+    background-image: url('isha3.jpg');
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    
+}
+.bs2{
+    background-image: url('isha4.jpg');
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    
+}.bs3{
+    background-image: url('isha6.jpg');
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    
+}.bs4{
+    background-image: url('isha7.jpg');
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    
+}
+.rooms{
+    background-image: url('isha11.avif');
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    box-shadow: 0.1px 0.3px 10px 0px black;
+
+}
+.box4{
+   
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('isha16.jpg');
+    background-size: cover;
+    box-shadow: 0.1px 0.3px 5px 0px black;
+}
+.boxin4{
+    height: 100px;
+    width: 600px;
+    font-size: 20px;
+    
+}
+.box5{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: url('isha21.jpeg') ;
+    background-size: cover;
+    
+}
+.bp1{
+    background-image: url('isha19.jpg');
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+    box-shadow: 0.1px 0.3px 20px 5px black;
+}
+.bp2{
+    background-image: url('isha17.jpg');
+    height: 400px;
+    width: 400px;
+    background-size: cover;
+    box-shadow: 0.1px 0.3px 20px 5px black;
+}
+.box6{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.social-links{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    font-size: 20px;
+    color: #ffffff; 
+    background-image: url('isha10.avif');
+    box-shadow: 0.1px 0.3px 20px rgba(0, 0, 0, 0.5);
+}
+.social-links a {
+    text-decoration: none; 
+    color: #000; 
+    position: relative; 
+}
+
+.social-links a {
+    text-decoration: none;
+    color: #000;
+    position: relative;
+}
+
+.social-links a::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: black;
+    transition: width 0.3s ease;
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+}
+
+.social-links a:hover::after {
+    width: 100%;
+}
+.border-hover {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.border {
+  
+    border-radius: 5px;
+    transition: transform 0.3s ease, border-color 0.3s ease; 
+}
+.border:hover {
+    transform: scale(1.05); 
+    border-color: rgb(75, 72, 104); 
+}
+.carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#prevBtn, #nextBtn {
+    background-color: #ffffff;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+}
+.box1, .box2, .box3, .box4, .box5 {
+    opacity: 0; 
+    transform: translateY(50px); 
+    transition: opacity 0.8s ease, transform 0.9s ease;
+}
+
+.box1.show, .box2.show, .box3.show, .box4.show, .box5.show {
+    opacity: 1; 
+    transform: translateY(0); 
+}
+/* Media Queries */
+
+/* For tablets (768px and below) */
+@media (max-width: 768px) {
+    .navbar {
+        height: auto; /* Allow navbar to adjust height */
+        flex-direction: column; /* Stack items vertically */
+        padding: 10px; /* Add some padding */
+    }
+
+    .navbar p {
+        font-size: 30px; /* Smaller font size */
+    }
+
+    .text1 {
+        font-size: 30px; /* Smaller font size for the text */
+    }
+
+    .navbar2 {
+        font-size: 25px; /* Smaller font size for navbar links */
+        margin-top: 10px; /* Adjust margin */
+    }
+
+    .wardel {
+        height: 400px; /* Adjust height */
+        font-size: 60px; /* Smaller font size */
+    }
+
+    .parah1 {
+        width: 100%; /* Full width */
+        font-size: 30px; /* Smaller font size */
+    }
+
+    .box1, .box2, .box3, .box4, .box5 {
+        flex-direction: column; /* Stack boxes vertically */
+        height: auto; /* Allow height to adjust */
+        margin-top: 20px; /* Adjust margin */
+    }
+
+    .photosbox {
+        flex-direction: column; /* Stack images vertically */
+    }
+
+    .bx1 {
+        height: 200px; /* Adjust box size */
+        width: 200px;
+    }
+
+    .bp1, .bp2 {
+        height: 300px; /* Adjust size for smaller screens */
+        width: 300px;
+    }
+
+    .social-links {
+        flex-direction: column; /* Stack social links */
+        height: auto; /* Allow height to adjust */
+    }
+
+    .box6 {
+        flex-direction: column; /* Stack items */
+    }
+}
+
+/* For mobile phones (480px and below) */
+@media (max-width: 480px) {
+    .navbar {
+        flex-direction: column; 
+        padding: 5px; 
+    }
+
+    .navbar p {
+        font-size: 25px;
+    }
+
+    .text1 {
+        font-size: 25px; 
+    }
+
+    .navbar2 {
+        font-size: 20px; 
+    }
+
+    .wardel {
+        height: 300px; 
+        font-size: 40px; 
+    }
+
+    .parah1 {
+        font-size: 20px;
+    }
+
+    .photosbox {
+        flex-direction: column; 
+        width: 100%; 
+    }
+
+    .bx1 {
+        height: 150px;
+        width: 150px;
+    }
+
+    .bp1, .bp2 {
+        height: 200px; 
+        width: 200px;
+    }
+
+    .social-links {
+        font-size: 16px; 
+        flex-direction: column; 
+    }
+
+    .box6 {
+        flex-direction: column; 
+        height: auto; 
+    }
+}
